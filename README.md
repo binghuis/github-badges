@@ -1,6 +1,7 @@
 # Powered By
-[![simpleicons](https://img.shields.io/badge/Simpleicons-111111?logo=simpleicons)](https://simpleicons.org/)
+
 [![shieldsdotio](https://img.shields.io/badge/shields.io-111111?logo=shieldsdotio)](https://shields.io/badges)
+[![simpleicons](https://img.shields.io/badge/Simpleicons-111111?logo=simpleicons)](https://simpleicons.org/)
 
 ---
 
