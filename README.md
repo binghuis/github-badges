@@ -1,3 +1,8 @@
+![github](https://img.shields.io/badge/Github-181717?logo=github)
+![github](https://img.shields.io/badge/Github_Actions-181717?logo=githubactions)
+![gitbook](https://img.shields.io/badge/GitBook-181717?logo=gitbook)
+
+
 # JavaScript
 
 ![typescript](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&labelColor=263238)
@@ -11,6 +16,7 @@
 
 ![node](https://img.shields.io/badge/Node-339933?logo=nodedotjs&labelColor=263238)
 ![deno](https://img.shields.io/badge/Deno-_^1.3.7-black?logo=deno&labelColor=263238)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&labelColor=263238)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&labelColor=263238)
 
 ![vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&labelColor=263238)
@@ -21,7 +27,10 @@
 
 ![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&labelColor=263238)
 ![eslint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint)
-![stylelint](https://img.shields.io/badge/stylelint-263238?logo=stylelint)
+![stylelint](https://img.shields.io/badge/Stylelint-263238?logo=stylelint)
+![prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&labelColor=263238)
+
+![meilisearch](https://img.shields.io/badge/Meilisearch-FF5CAA?logo=meilisearch&labelColor=263238)
 
 # Python
 
