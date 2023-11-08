@@ -1,11 +1,17 @@
+# Powered By
+[![simpleicons](https://img.shields.io/badge/Simpleicons-111111?logo=simpleicons)](https://simpleicons.org/)
+[![shieldsdotio](https://img.shields.io/badge/shields.io-111111?logo=shieldsdotio)](https://shields.io/badges)
+
+---
+
 ![github](https://img.shields.io/badge/Github-181717?logo=github)
 ![github](https://img.shields.io/badge/Github_Actions-181717?logo=githubactions)
 ![gitbook](https://img.shields.io/badge/GitBook-181717?logo=gitbook)
 
 
-# JavaScript
+# ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&labelColor=263238)
 
-![typescript](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&labelColor=263238)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&labelColor=263238)
 
 ![react](https://img.shields.io/badge/React-61DAFB?logo=react&labelColor=263238)
 ![antd](https://img.shields.io/badge/Ant_Design-0170FE?logo=antdesign)
@@ -32,7 +38,7 @@
 
 ![meilisearch](https://img.shields.io/badge/Meilisearch-FF5CAA?logo=meilisearch&labelColor=263238)
 
-# Python
+# ![python](https://img.shields.io/badge/python-3776AB?logo=python&labelColor=263238)
 
 [![ruff](https://img.shields.io/badge/Ruff-FCC21B?logo=ruff&labelColor=263238)](https://github.com/astral-sh/ruff)
 [![pdm-managed](https://img.shields.io/badge/pdm-managed-blueviolet?labelColor=263238)](https://pdm.fming.dev)
@@ -44,6 +50,7 @@
 
 ![fastapi](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&labelColor=263238)
 ![pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic)
+![pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?logo=pytorch&labelColor=263238)
 
 
 
