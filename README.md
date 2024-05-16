@@ -9,7 +9,6 @@
 ![github](https://img.shields.io/badge/Github_Actions-181717?logo=githubactions)
 ![gitbook](https://img.shields.io/badge/GitBook-181717?logo=gitbook)
 
-
 # ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&labelColor=263238)
 
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&labelColor=263238)
@@ -53,6 +52,4 @@
 ![pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic)
 ![pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?logo=pytorch&labelColor=263238)
 
-
-
-
+# ![rust](https://img.shields.io/badge/Rust-000000?logo=rust)
