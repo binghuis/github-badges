@@ -52,4 +52,4 @@
 ![pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic)
 ![pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?logo=pytorch&labelColor=263238)
 
-# ![rust](https://img.shields.io/badge/Rust-000000?logo=rust)
+# ![rust](https://img.shields.io/badge/Rust-000000?logo=rust&labelColor=263238)
