@@ -16,6 +16,8 @@
 ![react](https://img.shields.io/badge/React-61DAFB?logo=react&labelColor=263238)
 ![antd](https://img.shields.io/badge/Ant_Design-0170FE?logo=antdesign)
 
+![vue](https://img.shields.io/badge/Vue_3-4FC08D?logo=vue.js&labelColor=263238)
+
 ![nestjs](https://img.shields.io/badge/NestJs-E0234E?logo=nestjs)
 ![nextjs](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
 ![nextui](https://img.shields.io/badge/NextUI-black?logo=nextui)
