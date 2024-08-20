@@ -40,6 +40,10 @@
 
 ![meilisearch](https://img.shields.io/badge/Meilisearch-FF5CAA?logo=meilisearch&labelColor=263238)
 
+![googlechrome](https://img.shields.io/badge/Google_Chrome-4285F4?logo=googlechrome&labelColor=263238)
+
+![lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?logo=lighthouse&labelColor=263238)
+
 # ![python](https://img.shields.io/badge/python-3776AB?logo=python&labelColor=263238)
 
 [![ruff](https://img.shields.io/badge/Ruff-FCC21B?logo=ruff&labelColor=263238)](https://github.com/astral-sh/ruff)
